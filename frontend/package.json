@@ -2,7 +2,7 @@
   "name": "example",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "Muhibbudin Suretno <suretno@orori.com>",
+  "author": "alpredovandy",
   "private": true,
   "scripts": {
     "dev": "nuxt",

@@ -15,6 +15,10 @@ Untuk menjalankan frontend, bisa dengan :
 
 ### `yarn dev`
 
+Ketikkan perintah dibawah :
+
+### `npm install`
+
 
 ## Library yang digunakan
 
